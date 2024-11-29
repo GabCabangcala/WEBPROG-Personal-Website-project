@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-  color: #31363F;
+  color: #EEEEEE;
   font-family: cursive;
   text-align: Center;
   font-size: 80px;
@@ -31,18 +31,18 @@ p, ul, ol {
 img[src="http://surl.li/qqvawt"] {
   width: 300px; 
   height: 400px;
-  align: center;
   margin: 50px 800px;
   border-radius: 20%;
 }
 
 p:nth-of-type(1) {
-  position: relative; /* Isolates its movement */
-  top: -450px; /* Moves it upwards */
-  left: 20px; /* Moves it slightly to the right */
-  line-height: 1.5; /* Adjusts line spacing */
+  position: relative; 
+  top: -450px; 
+  left: 20px; 
+  line-height: 1.5; 
   padding-right: 900px;
   padding-left: 100px;
+  font-size: 30px;
  
 }
 
