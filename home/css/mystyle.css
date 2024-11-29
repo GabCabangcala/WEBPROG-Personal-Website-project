@@ -1,9 +1,9 @@
 body {
   background-color: #76ABAE;
   margin-top: 50px;
-  margin-bottom: 150px;
-  margin-right: 150px;
-  margin-left: 150px;
+  margin-bottom: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
 }
 
 h1 {
@@ -40,9 +40,9 @@ p:nth-of-type(1) {
   top: -450px; 
   left: 20px; 
   line-height: 1.5; 
-  padding-right: 200px;
+  padding-right: 100px;
   padding-left: 100px;
-  font-size: 30px;
+  font-size: 25px;
  
 }
 
