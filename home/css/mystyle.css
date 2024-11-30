@@ -1,107 +1,183 @@
+@font-face {
+  font-family: MyFont1;
+  src: https://fonts.google.com/specimen/Bebas+Neue;
+}
+
+
 body {
-  background-color: #76ABAE;
+ background-color: #76ABAE;
 }
 
 h3, h4 {
-  color: #31363F;
-  font-family: cursive;
-  font-size: 20px;
+ color: #31363F;
+ font-family: MyFont1;
+ font-size: 20px;
 }
 
 
 
 .FirstPart {
-  margin-left: 8%;
-  margin-top: 5%;
+ margin-left: 8%;
+ margin-top: 5%;
 }
 
 h1 {
-  margin-bottom: 10px;
-  margin-top: 10px;
-  font-family: cursive;
-  color: #EEEEEE;
-  margin-left: 10%;
-  
-}
-
-img[src="http://surl.li/qqvawt"] {
-  width: 300px; 
-  height: 350px;
-  border-radius: 20%;
+ margin-bottom: 10px;
+ margin-top: 10px;
+ font-family: MyFont1;
+ color: #EEEEEE;
+ margin-left: 10%;
+ 
+ 
 }
 
 
 .FirstPart p {
-  margin-top: 0%; 
-  left: 10px; 
-  line-height: 1.5; 
-  padding-right: 800px;
-  padding-left: 350px;
-  font-size: 25px;
-  text-align: justify;
-  font-family: cursive;
-  font-size: 20px;
-  color: #EEEEEE;
+ margin-top: 0%; 
+ left: 10px; 
+ line-height: 1.5; 
+ padding-right: 800px;
+ padding-left: 350px;
+ font-size: 25px;
+ text-align: justify;
+ font-family: MyFont1;
+ font-size: 20px;
+ color: #EEEEEE;
 }
 
 .FirstPart h4{
-  margin-top: -350px; 
-  left: 10px; 
-  line-height: 1.5; 
-  padding-left: 350px;
+ margin-top: -350px; 
+ left: 10px; 
+ line-height: 1.5; 
+ padding-left: 350px;
 }
 
 .SecondPart h4{
-  margin-top: -10px; 
-  left: 10px; 
-  line-height: 1.5; 
-  padding-left: 350px;
+ margin-top: -10px; 
+ left: 10px; 
+ line-height: 1.5; 
+ padding-left: 350px;
 }
 
 .ThirdPart p:nth-of-type(1) {
-  padding-right: 80%;
-  font-size: 15px;
-  margin-left: -20%;
-  margin-top: 3%;
+ padding-right: 80%;
+ font-size: 15px;
+ margin-left: -20%;
+ margin-top: 3%;
 }
 
 .ThirdPart p:nth-of-type(2) {
-  padding-right: 83%;
-  font-size: 15px;
-  margin-left: -20%;
-  margin-top: 0%;
+ padding-right: 83%;
+ font-size: 15px;
+ margin-left: -20%;
+ margin-top: 0%;
 }
 
 table {
-    border-collapse: separate;
-    border-spacing: 10;
-    margin-left: 10%;
-    background-color: #333;
-    border: 5px solid white;
-    border-radius: 15px;
+   border-collapse: separate;
+   border-spacing: 10;
+   margin-left: 10%;
+   background-color: #333;
+   border: 5px solid white;
+   border-radius: 15px;
 }
 
 th {
-    border: 1px solid white;
-    background-color: #555;
-    color: white;
-    font-weight: bold;
-    font-size: 150%;
-    padding: 15px;
-    text-align: center;
+   border: 1px solid white;
+   background-color: #555;
+   color: white;
+   font-weight: bold;
+   font-size: 150%;
+   padding: 15px;
+   text-align: center;
 }
 
 td {
-    border: 1px solid white;
-    background-color: #444;
-    color: white;
-    padding: 15px;
-    text-align: center;
-    border-radius: 8px;
+   border: 1px solid white;
+   background-color: #444;
+   color: white;
+   padding: 15px;
+   text-align: center;
+   border-radius: 8px;
 }
 
 tr {
-    height: 50px;
+   height: 50px;
 }
 
+img[src="https://media.discordapp.net/attachments/963300217539670037/1310432347153240094/IMG_9454.jpg?ex=674a78ba&is=6749273a&hm=25b8f16d3d8b642141632ffd4fce3b140ec731dee136e05803235d000a47b5e7&=&format=webp&width=701&height=701"] {
+ width: 300px; 
+ height: 350px;
+ border-radius: 20%;
+}
 
+img[src="https://tinyurl.com/3zk8kee7"] {
+ height: 250px;
+ width: 400px;
+}
+
+img[src="https://tinyurl.com/56k7eff6"] {
+ height: 250px;
+ width: 400px;
+}
+
+img[src="https://tinyurl.com/ycyrhu8v"] {
+ height: 250px;
+ width: 400px;
+}
+
+img[src="https://tinyurl.com/786zzztx"] {
+ height: 250px;
+ width: 400px;
+}
+
+img[src="https://tinyurl.com/yfsxtnka"] {
+ height: 250px;
+ width: 400px;
+}
+
+img[src="https://tinyurl.com/5f4atkdz"] {
+ height: 250px;
+ width: 400px;
+}
+
+img[src="https://tinyurl.com/4rfhbsap"] {
+ height: 250px;
+ width: 400px;
+}
+
+img[src="https://tinyurl.com/35karera"] {
+ height: 250px;
+ width: 400px;
+}
+
+img[src="https://tinyurl.com/2ajefx4f"] {
+ height: 250px;
+ width: 400px;
+}
+
+img[src="https://tinyurl.com/4rfhbsap"] {
+ height: 250px;
+ width: 400px;
+}
+
+img[src="https://tinyurl.com/mfx3uebv"] {
+ height: 250px;
+ width: 400px;
+}
+
+img[src="https://tinyurl.com/raej3eyy"] {
+ height: 250px;
+ width: 400px;
+}
+
+img[src="https://tinyurl.com/2s4exhmy"] {
+ height: 250px;
+ width: 400px;
+}
+
+.gallery h4 {
+ margin-top: 5%;
+ margin-left: 20%;
+ font-size: 30px;
+}
