@@ -36,6 +36,11 @@ h1 {
   color: #EEEEEE;
 }
 
+.Fi {
+  display: flex;
+  align-items: center;
+}
+
 /* Consider using positioning for headings instead of negative margins */
 .FirstPart h4,
 .SecondPart h4 {
@@ -45,10 +50,7 @@ h1 {
 }
 
 .ThirdPart p {
-  padding-right: 20%; /* Adjust padding as needed */
-  font-size: 15px;
-  margin-left: 0%; /* Use consistent margin */
-  margin-top: 3%; /* Or adjust as needed */
+  margin-left: 20px; /* Adjust the margin as needed */
 }
 
 table {
@@ -83,11 +85,13 @@ tr {
   height: 50px;
 }
 
-img[src="https://media.discordapp.net/attachments/963300217539670037/1310432347153240094/IMG_9454.jpg?ex=674a78ba&is=6749273a&hm=25b8f16d3d8b642141632ffd4fce3b140ec731dee136e05803235d000a47b5e7="] {
+img[src="https://tinyurl.com/3tvaehwf"] {
   width: 300px;
   height: 350px;
   border-radius: 20%;
 }
+
+
 img[src="https://tinyurl.com/3zk8kee7"] {
   height: 250px;
   width: 400px;
@@ -157,4 +161,20 @@ img[src="https://tinyurl.com/2s4exhmy"] {
   margin-top: 5%;
   margin-left: 20%;
   font-size: 30px;
+}
+
+.container {
+  display: flex;  /* Make the container a flexbox */
+
+}
+
+.text-content {
+  flex: 1;          /* Allow text content to fill available space */
+  padding: 1em;     /* Add some padding for visual separation */
+  margin-right: 25%;
+}
+
+img {
+  width: 200px;     /* Adjust image width as needed */
+  margin-right: 10%; /* Add margin for spacing between image and text */
 }
